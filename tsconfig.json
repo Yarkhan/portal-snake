@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es3",
+        "noImplicitAny": false,
+        "outFile": "built/snake.js",
+        "rootDir": "./src",
+        "sourceMap": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
